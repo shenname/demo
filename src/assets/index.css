@@ -1,0 +1,18 @@
+.max_div{
+    width: calc(100% - 30px);
+    height: calc(100vh - 136px);
+    background-color: #B4D1EE;
+    padding: 10px 15px;
+}
+.block{
+    padding-bottom: 10px !important;
+}
+.demonstration{
+    font-size: 14px !important;
+}
+.el-table{
+    overflow: scroll !important;
+}
+.el-table::-webkit-scrollbar {
+    display: none; 
+}
